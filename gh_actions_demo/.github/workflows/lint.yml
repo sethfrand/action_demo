@@ -33,3 +33,4 @@ jobs:
         run: ruff check .
       - name: Ruff (Notebooks via nbqa)
         run: nbqa ruff .
+
